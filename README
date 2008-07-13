@@ -1,6 +1,6 @@
-							****************************
-							* Crystal iconsets for Psi *
-							****************************
+****************************
+* Crystal iconsets for Psi *
+****************************
 
 About
 -----
@@ -23,7 +23,7 @@ Installing
 To use the iconsets under Psi, it suffices to copy the .jisp files into the
 right directory. Put the system iconset in PSIDIR/iconsets/system, and
 the other iconsets in PSIDIR/iconsets/roster. Alternatively, under Linux and
-MacOS you can put them in ~/.psi/iconsets/roster and ~/.psi/iconsets/system for
+Mac OS X you can put them in ~/.psi/iconsets/roster and ~/.psi/iconsets/system for
 convenience. Then, assign the iconsets in the Options dialog of Psi:
     * Select Crystal (System) as the system iconset
     * Select Crystal (Roster) as default roster iconset
@@ -34,5 +34,4 @@ convenience. Then, assign the iconsets in the Options dialog of Psi:
 
 Contact
 -------
-More information can be found in the AUTHORS file and on the website
-	http://www.cs.kuleuven.ac.be/~remko/psi/crystal
+See http://el-tramo.be/about for contact information.
