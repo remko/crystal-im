@@ -1,4 +1,4 @@
-# [Crystal iconsets for Psi](http://el-tramo.be/crystal-im)
+# [Crystal iconsets for Psi](https://el-tramo.be/crystal-im)
 
 ## About
 
